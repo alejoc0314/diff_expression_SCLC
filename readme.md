@@ -11,9 +11,6 @@ Este proyecto tiene como objetivo realizar un análisis exhaustivo de los genes 
 - [GSCA para el Análisis de Caminos Genéticos](#gsca-para-el-análisis-de-caminos-genéticos)
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Descripción General
 
